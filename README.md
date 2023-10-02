@@ -1,6 +1,6 @@
 # Building
 
-# Aufgabenstellung 
+## Aufgabenstellung 
 
 Konzeptioniere eine Klassen- und Objektstruktur für ein Gebäude. 
 
@@ -28,13 +28,13 @@ Schalte auch dort das Licht in allen Zimmern ein.
 
  
 
-# Erwartung 
+## Erwartung 
 
 Die Anwendung ist kompilierfähig und im guten Stil implementiert. 
 Nach Ausführung der Anwendung erscheinen die Konsolenausgaben für die Lichtschaltvorgänge. 
 Erweiterbarkeit und Modellierung neuer Gebäudestrukturen soll später möglich sein. 
  
 
-Zeitrahmen 
+## Zeitrahmen 
 
 Ca. 55 Minuten 
