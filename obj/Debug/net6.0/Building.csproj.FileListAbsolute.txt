@@ -1,0 +1,15 @@
+/Users/karim/Projects/Building/Building/obj/Debug/net6.0/Building.csproj.AssemblyReference.cache
+/Users/karim/Projects/Building/Building/obj/Debug/net6.0/Building.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karim/Projects/Building/Building/obj/Debug/net6.0/Building.AssemblyInfoInputs.cache
+/Users/karim/Projects/Building/Building/obj/Debug/net6.0/Building.AssemblyInfo.cs
+/Users/karim/Projects/Building/Building/obj/Debug/net6.0/Building.csproj.CoreCompileInputs.cache
+/Users/karim/Projects/Building/Building/bin/Debug/net6.0/Building
+/Users/karim/Projects/Building/Building/bin/Debug/net6.0/Building.deps.json
+/Users/karim/Projects/Building/Building/bin/Debug/net6.0/Building.runtimeconfig.json
+/Users/karim/Projects/Building/Building/bin/Debug/net6.0/Building.dll
+/Users/karim/Projects/Building/Building/bin/Debug/net6.0/Building.pdb
+/Users/karim/Projects/Building/Building/obj/Debug/net6.0/Building.dll
+/Users/karim/Projects/Building/Building/obj/Debug/net6.0/refint/Building.dll
+/Users/karim/Projects/Building/Building/obj/Debug/net6.0/Building.pdb
+/Users/karim/Projects/Building/Building/obj/Debug/net6.0/Building.genruntimeconfig.cache
+/Users/karim/Projects/Building/Building/obj/Debug/net6.0/ref/Building.dll
