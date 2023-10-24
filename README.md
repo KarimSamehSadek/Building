@@ -1,40 +1,32 @@
 # Building
 
-## Aufgabenstellung 
+## Task 
 
-Konzeptioniere eine Klassen- und Objektstruktur für ein Gebäude. 
+Design a class and object structure for a building. 
 
-Das Gebäude soll 2 Stockwerke (EG, OG) haben. Im EG befindet sich ein Büroraum, ein buchbarer Meetingraum und ein Technikraum. Im OG befinden sich buchbare Gästezimmer (1 Doppel und ein Einzelzimmer) 
+The building should have 2 floors (ground floor, first floor). On the ground floor there is an office space, a bookable meeting room and a technical room. On the upper floor there are bookable guest rooms (1 double and one single room). 
 
-Die Funktionalität "Buchbar" soll nur über eine einfache Boolean-Variable abgebildet werden, die dann angibt, ob ein Raum frei oder belegt ist. Es soll keine kalenderbasierte Buchungslösung oder ähnliches implementiert werden. 
+The functionality "Bookable" should only be mapped via a simple Boolean variable, which then indicates whether a room is free or occupied. No calendar-based booking solution or the like is to be implemented. 
 
-Als Funktion betrachten wir exemplarisch die Beleuchtung. Jeder Raum hat ein Hauptlicht, welches ein- und ausgeschaltet werden kann. Der Meetingraum hat zusätzlich einen weiteren Beleuchtungskreis. 
+As a function, let's consider lighting as an example. Each room has a main light that can be switched on and off. The meeting room has an additional lighting circuit. 
 
-Weitere Raumfunktionen wie z.B. Klimaanlage, Beschattung, Heizung, etc. werden in der ersten Implementierung nicht benötigt. Es soll allerdings auf Erweiterbarkeit geachtet werden. 
+Other room functions such as air conditioning, shading, heating, etc. are not needed in the first implementation. However, expandability should be considered. 
 
-Wird das Licht in einem Raum geschaltet, soll eine entsprechende Konsolenausgabe (einfach) erfolgen und die Lichteigenschaft entsprechend geschaltet werden. 
+If the light is switched in a room, a corresponding console output (simple) shall be done and the light property shall be switched accordingly.   
 
-  
+Create the above building as an object in a C# console application. 
 
-Erstelle das o.g. Gebäude als Objekt in einer C# Konsolenanwendung. 
+After that, the light is to be "switched on" in the entire building. 
 
-Danach soll im gesamten Gebäude „das Licht eingeschaltet“ werden. 
+Now create a second building - the annex of the "hotel". This has 5 floors with 10 double rooms, 5 single rooms and a technical room. 
 
+Switch on the light in all rooms there, too. 
+
+
+## Expectation 
+
+The application is compilable and implemented in good style. 
+After running the application, the console outputs for the light switching operations appear. 
+Extensibility and modeling of new building structures should be possible later. 
  
 
-Erstelle nun ein zweites Gebäude - das Nebengebäude des „Hotels“. Dieses hat 5 Stockwerke mit je 10 Doppelzimmern, 5 Einzelzimmern und einen Technikraum. 
-
-Schalte auch dort das Licht in allen Zimmern ein. 
-
- 
-
-## Erwartung 
-
-Die Anwendung ist kompilierfähig und im guten Stil implementiert. 
-Nach Ausführung der Anwendung erscheinen die Konsolenausgaben für die Lichtschaltvorgänge. 
-Erweiterbarkeit und Modellierung neuer Gebäudestrukturen soll später möglich sein. 
- 
-
-## Zeitrahmen 
-
-Ca. 55 Minuten 
